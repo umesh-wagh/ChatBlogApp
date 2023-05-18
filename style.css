@@ -1,0 +1,114 @@
+
+@media (max-width: 768px) {
+    body{
+         background-color: aqua;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    body{
+    background-color: cadetblue;
+    }
+  }
+  
+  @media (min-width: 1025px) {
+    body{
+        background-color:aqua;
+    }
+  }
+  
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: rgba(0, 255, 21, 0.74); */
+}
+
+header {
+    background-color:blueviolet;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#chat-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+#message-list {
+    height: 300px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-weight:bold;
+    background-color:#1066a7;
+    color: white;
+}
+
+#user-input {
+    display: flex;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+#message-input {
+    flex: 1;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#send-button {
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: crimson;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button{
+    height: 40px;
+    width: 24.775%;
+}
+#btn-1{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+#btn-2{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+#btn-3{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+#btn-4{
+    background-color: purple;
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+footer {
+    background-color:blueviolet;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
