@@ -31,7 +31,6 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Flow Chart](#flowchart)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -56,18 +55,12 @@ What things you need to install the software and how to install them. <br />
 ### Installing VS code
 One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
 
-## 🔧 Test cases for an application <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-The application must work under the given facilities.
-
-### Break down into end-to-end tests
-The above-given test cases help to cover all the important modules of an application.
-
-```
-```
-
 ## 🎈 Usage <a name="usage"></a>
 The application interface is quite user-friendly and any common user will let know how to use the application because their application structure is made in such a way that the user just has to enter the blogs and by pressing submit button blog will be posted on the site with the time stamp.
+
+### Snapshots
+![Screenshot-1](https://github.com/umesh-wagh/ChatBlogApp/assets/110533392/c08fcd33-d141-4ea7-bd24-0ae870402182)
+![Screenshot-2](https://github.com/umesh-wagh/ChatBlogApp/assets/110533392/f1cda03c-7ce2-4487-8a14-eed44f48f641)
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Cloudflare protects and accelerates any website online. Once your website is a part of the Cloudflare community, its web traffic is routed through Cloudflare intelligent global network. 
