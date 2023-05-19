@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">Weather App</h3>
+<h3 align="center">ChatBlogApp</h3>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  The app shows the weather information of a given city or location worldwide.
+  This app helpful to post your blog on the site with amazing UI.
   The weather app is built using three basic web technologies i.e., HTML, CSS and JavaScript. 
     <br> 
 </p>
@@ -36,8 +36,8 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-The weather application is made for every kind of user. It provides simplicity, reliability and good interface to the end user.
-The technologies are used in this project are HTML, CSS, and JavaScript. There are some key concepts in the project like API, API key, etc. JSON is used to read the data from the server and then fetch method is implemented in a project to access the various API parameters. I took almost 20 - 25 hrs to complete this project. Skill-Lync helped me that how to apply the JavaScript programming features in building a web application. 
+The BlogChatApp application is made for every kind of user. It provides simplicity, reliability and good interface to the end user.
+The technologies are used in this project are HTML, CSS, and JavaScript. This application conatins several guidance for the user to post the blog. The app also take the time in an account that when the blog is posted. I took almost 10 - 12 hrs to complete this project. Skill-Lync helped me that how to apply the JavaScript programming features in building a web application. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 ### Prerequisites
@@ -49,37 +49,25 @@ What things you need to install the software and how to install them. <br />
 > Memory: 8 GB <br />
 > Free storage: 4 GB <br />
 > Screen resolution: 1280 x 800 <br />
-> User must have a reliable internet connection to run the application. In case if internet connection is not reliable then prefer different device internet connection. <br />
 > Visual Studio code can be install from the below website: <br />
 > https://code.visualstudio.com// <br />
-> Installation is very simple follow each and every instruction while an installing the VS code. <br />
+> Installation is very simple follow each and every instruction while installing the VS code. <br />
 
 ### Installing VS code
 One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
 
 ## 🔧 Test cases for an application <a name = "tests"></a>
 Explain how to run the automated tests for this system.
-Application must work under given facilities.
-<br />
-> Check for internet connection if it available and reliable.  <br />
+The application must work under the given facilities.
 
-> Check for the API accuracy if it must be accurate. <br />
-
-> Check for the API key provided by the website it must an accurate. <br />
-
-> Check for the Valid location throughout the world. <br />
-
-> Check for the each and every API parameters.
-
-### Break down into end to end tests
-Above given tests cases helps to cover all the important modules of an application.
+### Break down into end-to-end tests
+The above-given test cases help to cover all the important modules of an application.
 
 ```
-In case if there is no internet connection then app will not load API data.
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-Application interface is quite user friendly that any common user will let know that how to use the application because there application structure is made in such a way that user just has to enter the city name and by pressing the Enter button user will get the weather API data of that location.
+The application interface is quite user-friendly and any common user will let know how to use the application because their application structure is made in such a way that the user just has to enter the blogs and by pressing submit button blog will be posted on the site with the time stamp.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Cloudflare protects and accelerates any website online. Once your website is a part of the Cloudflare community, its web traffic is routed through Cloudflare intelligent global network. 
@@ -110,8 +98,8 @@ Here are some following steps to create the github repository: <br />
 <br />
 Now your repository is created.
 
-## ⛏️ Flow Chart <a name = "flowchart"></a>
-![Weather-Flowchart](https://user-images.githubusercontent.com/110533392/229402773-fedd71a0-e69c-47ce-bdc3-56e9a54be0ad.png)
+<!-- ## ⛏️ Flow Chart <a name = "flowchart"></a>
+![Weather-Flowchart](https://user-images.githubusercontent.com/110533392/229402773-fedd71a0-e69c-47ce-bdc3-56e9a54be0ad.png) -->
 ## ✍️ Authors <a name = "authors"></a>
 - [@Umesh Wagh] - FSD
 
