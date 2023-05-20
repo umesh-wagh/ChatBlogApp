@@ -55,7 +55,7 @@ The technologies are used in this project are HTML, CSS, and JavaScript. This ap
 User can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
 
 ## 🎈 Usage <a name="usage"></a>
-The application interface is quite user-friendly and any common user will let know how to use the application because their application structure is made in such a way that the user just has to enter the blogs and by pressing submit button blog will be posted on the site with the time stamp.
+The application interface is quite user-friendly and any common user will let know how to use the application because their application structure is made in such a way that the user just has to enter the blogs and by pressing send button and the blog will be posted on the site with the time stamp. 
 
 ### Snapshots
 ![Screenshot-1](https://github.com/umesh-wagh/ChatBlogApp/assets/110533392/c08fcd33-d141-4ea7-bd24-0ae870402182)
