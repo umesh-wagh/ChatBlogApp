@@ -40,7 +40,6 @@ The technologies are used in this project are HTML, CSS, and JavaScript. This ap
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 ### Prerequisites
-What things you need to install the software and how to install them. <br />
 > User must have installed the visual studio code on the Desktop. <br />
 > User must have installed the Live Server Extension to go for live server in the VS code. <br />
 > CPU: Intel i5 or higher (U series or higher) recommended <br />
