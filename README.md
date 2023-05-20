@@ -43,7 +43,6 @@ The technologies are used in this project are HTML, CSS, and JavaScript. This ap
 What things you need to install the software and how to install them. <br />
 > User must have installed the visual studio code on the Desktop. <br />
 > User must have installed the Live Server Extension to go for live server in the VS code. <br />
-> User must have an account created on a website i.e. https://www.openweathermap.org// to get the access to an API and API key. <br />
 > CPU: Intel i5 or higher (U series or higher) recommended <br />
 > Memory: 8 GB <br />
 > Free storage: 4 GB <br />
@@ -53,7 +52,8 @@ What things you need to install the software and how to install them. <br />
 > Installation is very simple follow each and every instruction while installing the VS code. <br />
 
 ### Installing VS code
-One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
+
+User can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
 
 ## 🎈 Usage <a name="usage"></a>
 The application interface is quite user-friendly and any common user will let know how to use the application because their application structure is made in such a way that the user just has to enter the blogs and by pressing submit button blog will be posted on the site with the time stamp.
